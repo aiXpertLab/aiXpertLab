@@ -1,94 +1,94 @@
-### Hi there 👋
+### AI-Powered Automatically Customize Cover Letter for Each Job Post
+> - AI-Powered, Customized, Cover Letters
+> - AI Assistant Job Flow Automator. 
+> - Automate the customization of cover letters tailored to your resume and the unique requirements outlined in the job description extracted.
 
-**aiXpertLab/aiXpertLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href='https://www.hypech.com'>
+<img src="images/ai_powered_long.png" alt="AI-Powered Cover Letter" height=300></img></a>
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Apache-2.0](https://img.shields.io/badge/license-Apache-blue)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
+[![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![pydocstyle](https://img.shields.io/badge/pydocstyle-enabled-AD4CD3)](http://www.pydocstyle.org/en/stable/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub Release](https://img.shields.io/github/v/release/aiXpertLab/AI-Powered-Automatically-Customize-Cover-Letter)](https://github.com/aiXpertLab/AI-Powered-Automatically-Customize-Cover-Letter/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/aiXpertLab/AI-Powered-Automatically-Customize-Cover-Letter)](https://github.com/aixpertlab/)
+ 
+[![Official Website](<https://img.shields.io/badge/-Visit%20the%20Official%20Website%20%E2%86%92-rgb(21,204,116)?style=for-the-badge>)](https://hypech.com)
 
-# Make your First Android App here! :tada:
+[![jhc linkedin](https://img.shields.io/badge/Linkedin-aiXpert-5087B2.svg?style=flat&logo=Linkedin)](https://www.linkedin.com/in/aiXpert)
+[![jhc twitter](https://img.shields.io/badge/Twitter-@aiXpertLab-00aced.svg?style=flat&logo=twitter)](https://twitter.com/aiXpertLab)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNcmE7uHam8jSLSa8CvMgQQ)](https://www.youtube.com/@aiXpertLab)
+[![jhc fb](https://img.shields.io/badge/Facebook-aiXpertLab-5087B2.svg?style=flat&logo=facebook)](https://www.facebook.com/aiXpertLab/)
+[![jhc gmail](https://img.shields.io/badge/Gmail-aiXpertLab@gmail.com-5087B2.svg?style=flat&logo=gmail)](https://gmail.com)
 
-New to Android?  
-New to Java?  
-Don't know where to Start?  
-Don't know how to Start? :confused:  
+</div> 
 
-**Here is the One Stop Solution for Every Newcomer!**
+The AI-powered solution enables customers to integrate their specialized knowledge with OpenAI models to automate the extraction of relevant information from websites of their interest, effectively training the AI to deliver tailored results as if it were trained on their unique dataset.
 
-## 1. Begin with learning about Android Studio 4.2! How it works and learn about the core skills. :octocat:
+- [GPT-4 from OpenAI](#architecture)
+- [Powered by Python](#architecture)
+- [Intuitive User Interface](#architecture)
 
-You can read the following book, take the following courses/videos.
-* [Hands-on App Development in Android Studio 4.2](https://www.amazon.com/gp/product/B096TL8VMP) (22 Complete Android Cases with Step-by-Step Instruction to Grow from Novice to Android Expert)
+You will get Unlock Your Personalized AI Assistant Effortlessly: Scrape, Upload, and Go.
 
-* [The Youtube Tutorials/Videos are here](https://youtu.be/-fGgwyymOyI) :free:
+> [!WARNING]  
+> **Website Scraping Policy**
+> 
+> This project utilizes web scraping techniques to gather data from various websites. It's important to note that not all websites allow scraping, and some may have strict policies against it.
+>
+> **Before using this project**
+>
+> Take the time to carefully read and understand the scraping policies of each website from which you intend to scrape data. These policies can usually be found in the website's terms of service or robots.txt file.
+>
+> **Comply with Policies** 
+>
+>Ensure that you comply with the scraping policies of each website. Violating these policies could lead to consequences such as account restrictions, IP bans, or legal action.
 
-## 2. **Three ways** to get the cases from Github!
+> [!NOTE] 
+> **Disclaimer**
+> 
+>This project is provided for general-purpose use, and we do not take responsibility for any consequences resulting from the misuse of web scraping techniques. Users are solely responsible for ensuring compliance with website scraping policies and any associated risks.
 
-Each case is organized as a seperated project in Github repo. 
+# Overview
 
-### Option 1. Fork the Repository :fork_and_knife:(commonly called as Repo)
-If you already have Githup account: Fork the Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
-Don't forget to `Star`it!
+There's a saying that goes, 'the job hunt is a job in itself.' Indeed, a significant amount of energy and time is often spent tailoring cover letters to match each job application. With the assistance of an AI, we can automate this process, drastically reducing the time it takes to prepare a cover letter to just a few seconds with a simple process of Scraping, Clicking, and Sending. Not only will your cover letter be fully customized, but it will also maintain a professional tone. Sounds promising, doesn't it? That's because it truly is.
 
-<img src="fork.png" height="400" alt="Screenshot"/> 
+"Welcome to AI-Powered Job Assistance! Our innovative platform automatically tailors cover letters by scraping job descriptions and seamlessly integrating them with your resume. Review before sending and find your perfect fit with ease. Your dream job awaits!"
 
+# Technology Stack
 
-### Option 2. Clone the Repo Locally in Android Studio
+1. OpenAI Assistant ChatGPT
+2. Python
+3. Selenium WebDriver
 
-* Find the Repo link either through book or website, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.:clipboard:
+Selenium will facilitate various tasks such as navigating between pages, completing forms (e.g., login credentials), clicking links, and scrolling down. Apart from data scraping, Selenium will be instrumental in automating the outlined steps to manage actions until accessing the pages for data extraction. We will extract job offers and job descriptions.
 
-<img src="git.png" height="400" alt="Screenshot"/> 
+Utilizing ChatGPT, known for its professional assistance, and leveraging your own resume as a knowledge base, ChatGPT will generate tailored resumes.
 
-* Start Android Studio, and chose "Get from Version Control"
+Python serves as the intermediary connecting the website, ChatGPT, and your personal information. Tkinter GUI is employed to provide a user-friendly interface.
 
-<img src="git2.png" height="400" alt="Screenshot"/> 
+# Quick start
 
-The detailed instruction is in Case 4, Calculator.
+1. Python 3.12.2
+2. Selenium & chromedriver installed (watch how in this one).
+https://chromedriver.chromium.org/
 
-### Option 3. Open with Github Desktop
-GitHub Desktop makes it easy to get version history, code review, collaboration, and powerful automation tools, all without using the command line!
+## Requirements
 
-<img src="githubdesktop.png" height="400" alt="Screenshot"/> 
+- `python-dotenv`
+- `openai`
+- `selenium`
 
-### Option 4. Download as zip and import to Android Studio
-Download to the local drive. Unzip to get the project. 
+------------------Video Instruction---------------------
 
-### bonus: Make necessary changes :white_check_mark:
-Join our "Hands-on Android" project to make contribution. 
+[Yourtube](https://youtu.be/TlnytEi2lD8?si=jfcDj2MZqBptziZc)
 
-## 3. Run in your Android Studio
-
-Enjoy :blush:
-
-Support
--------
-0. Email: hypech.com@gmail.com
-1. GitHub: https://github.com/hypech/
-2. Youtube: https://youtu.be/-fGgwyymOyI
-3. Twitter: https://twitter.com/hypechor
-4. Web: http://hypech.com
-
- <pre>
-  Copyright 2021 The Learning Android with Cases Open Source Project
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  
-</pre>
+```bash
+pip install -r requirements.txt
+```
