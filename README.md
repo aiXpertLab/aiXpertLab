@@ -25,8 +25,8 @@
 [![jhc twitter](https://img.shields.io/badge/Twitter-@aiXpertLab-00aced.svg?style=flat&logo=twitter)](https://twitter.com/aiXpertLab)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNcmE7uHam8jSLSa8CvMgQQ)](https://www.youtube.com/@aiXpertLab)
 [![jhc fb](https://img.shields.io/badge/Facebook-aiXpertLab-5087B2.svg?style=flat&logo=facebook)](https://www.facebook.com/aiXpertLab/)
-[![jhc gmail](https://img.shields.io/badge/Gmail-aiXpertLab@gmail.com-5087B2.svg?style=flat&logo=gmail)](https://gmail.com)
 [![Discord](https://img.shields.io/discord/1207522121165570078)](https://discord.gg/7y3C4XdZq8)
+[![jhc gmail](https://img.shields.io/badge/Gmail-aiXpertLab@gmail.com-5087B2.svg?style=flat&logo=gmail)](https://gmail.com)
 
 </div> 
 
